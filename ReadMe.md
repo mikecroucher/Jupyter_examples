@@ -8,4 +8,4 @@ Most of these notebooks have interactive elements. If you are viewing them via g
 ##List of notebooks
 * MultiLanguage/MultiLangStats (R, MATLAB, Python) - Parallel monte carlo done in three languages. Written before Jupyter was released and uses cell magics and various bridges between each language and Python.
 * physics/Fourier Series (Python) - Interactive widget that computes fourier series of a square wave
-* physics/KronigPenney.ipynb (Python) - Interactive widget calculating the bandstructure of the Kronig Penny model. Also shows how you embedded YouTube video.
+* physics/KronigPenney.ipynb (Python) - Interactive widget calculating the bandstructure of the Kronig Penny model. Also shows how you embed YouTube videos.
